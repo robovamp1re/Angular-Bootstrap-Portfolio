@@ -1,14 +1,10 @@
 # Angular-Bootstrap Portfolio Template
 
-TODO: Write a project description
-
-## Installation
-
-TODO: Describe the installation process
+Just unzip for a no-frills Angular SPA with bootstrap modals!
 
 ## Usage
 
-TODO: Write usage instructions
+Unzip, add images and thumbnails to /images and edit /js/controllers/folio_controller.js with your portfolio items and style to your hearts desire!
 
 ## Contributing
 
@@ -18,14 +14,10 @@ TODO: Write usage instructions
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 
-## History
-
-TODO: Write history
-
 ## Credits
 
-TODO: Write credits
+Josh Cornelius
 
 ## License
 
-TODO: Write license
+[![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
